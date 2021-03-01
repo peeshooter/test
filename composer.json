@@ -1,0 +1,9 @@
+{
+    "name": "chenlean/composertest",
+    "description": "test",
+    "type": "1",
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "MIT"
+}
